@@ -7,12 +7,12 @@ This repository contains the code for predicting avalanches using Convolutional 
 ## Dataset
 
 The dataset used for training and evaluating the model consists of 20 videos, which can be accessed via the following link:
-[Dataset on Google Drive](https://drive.google.com/drive/folders/1y-HHVxCSZULgJ__JpysVjMB5-flKfYzA?usp=drive_link)
+[Dataset on Google Drive](https://drive.google.com/drive/folders/1d4a6AvTTnOSdsEKdvPgNZOSZnZ-olLiC?usp=sharing)
 
 ## Code
 
 The code for this project is implemented in Google Colab to leverage the computational resources available in the cloud. You can access and run the code using the link below:
-[Avalanche Prediction Colab Notebook](https://colab.research.google.com/drive/1Gr6mL-wcnT5R90I4DFyTRe4_LQUe9vJl?usp=sharing)
+[Avalanche Prediction Colab Notebook](https://colab.research.google.com/drive/113FUCYC4L6o4njTwnR8Rxq6-Cryjb1I8?usp=sharing)
 
 ## Features
 
