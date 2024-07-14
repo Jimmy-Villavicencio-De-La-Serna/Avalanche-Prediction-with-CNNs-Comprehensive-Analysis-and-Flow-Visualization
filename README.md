@@ -11,7 +11,7 @@ The dataset used for training and evaluating the model consists of 20 videos, wh
 
 ## Code
 
-The code for this project is implemented in Google Colab to leverage the computational resources available in the cloud. You can access and run the code using the link below:
+The code for this project was generated using the assistance of ChatGPT and implemented in Google Colab to leverage the computational resources available in the cloud. You can access and run the code using the link below:
 [Avalanche Prediction Colab Notebook](https://colab.research.google.com/drive/113FUCYC4L6o4njTwnR8Rxq6-Cryjb1I8?usp=sharing)
 
 ## Features
